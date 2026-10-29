@@ -73,7 +73,7 @@
 
 <div align="center">
 
-*By day I keep a private cloud running at scale; by night I teach local LLMs to coach people on what to eat.* 🔭
+*By day I keep a private cloud running at scale; by night I build Maui, a personal life guru of AI agents that turns your notes, goals and health data into a plan for your day.* 🔭
 
 </div>
 
