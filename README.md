@@ -2,7 +2,7 @@
 
 # Hi, I'm Do Lam Truong 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=560&lines=Backend+Engineer+%C2%B7+Go+%C2%B7+Python+%C2%B7+Ruby+%C2%B7+Java;Building+LLM+apps%3A+RAG%2C+agents%2C+MLOps;Distributed+systems+%26+cloud+platforms)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=560&lines=Backend+Engineer+%C2%B7+Go+%C2%B7+Python+%C2%B7+Ruby+%C2%B7+Java;Quant+Trader+%C2%B7+Markets+%26+Models;Building+LLM+apps%3A+RAG%2C+agents%2C+MLOps;Distributed+systems+%26+cloud+platforms)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/truongdolam23456/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dolamtruong2304forwork@gmail.com)
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-*Backend engineer from Saigon who builds the systems that keep running after everyone logs off: four years of clouds, queues and Kubernetes, with a detour through computer vision and now LLM agents.* ⚡
+*Backend engineer and quant trader from Saigon who builds systems that keep running after everyone logs off: four years of clouds, queues and Kubernetes, a detour through computer vision, and now LLM agents.* ⚡
 
 </div>
 
