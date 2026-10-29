@@ -16,7 +16,7 @@
 
 <div align="center">
 
-*Backend engineer and quant trader from Saigon who builds systems that keep running after everyone logs off: four years of clouds, queues and Kubernetes, a detour through computer vision, and now LLM agents.* ⚡
+*Backend engineer and quant trader from Saigon who builds systems that keep running after everyone logs off: clouds, queues and Kubernetes, a detour through computer vision, and now LLM agents.* ⚡
 
 </div>
 
@@ -73,7 +73,7 @@
 
 <div align="center">
 
-*By day I keep a private cloud running at scale; by night I build Maui, a personal life guru of AI agents that turns your notes, goals and health data into a plan for your day.* 🔭
+*By day I keep a private cloud running at scale; by night I build Maui, a personal life guru of AI agents, trying to make the world a little better and safer.* 🔭
 
 </div>
 
