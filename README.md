@@ -14,12 +14,11 @@
 
 ## About me
 
-Backend engineer from Ho Chi Minh City, Vietnam, with 4 years of experience across web backends and AI engineering.
+<div align="center">
 
-- 🏢 **Now** — Backend Engineer at Skylab Holding, building a private cloud platform for enterprise clients, with integration to AWS, Azure and Huawei Cloud
-- 🤖 **Before** — AI Engineer at FPT Software: an ML pipeline that picks datasets, trains and deploys anomaly-detection models (Kubeflow, KServe, FastAPI)
-- 🎓 **Education** — B.Sc. Computer Science, Ho Chi Minh City University of Technology (8.32/10). Thesis: real-time 3D reconstruction from video, building on NeuralRecon
-- 🌱 **Learning** — LLM applications (RAG, LangGraph agents), MLOps (MLflow, Airflow) and Go concurrency
+*Backend engineer from Saigon who builds the systems that keep running after everyone logs off: four years of clouds, queues and Kubernetes, with a detour through computer vision and now LLM agents.* ⚡
+
+</div>
 
 ---
 
@@ -72,12 +71,11 @@ Backend engineer from Ho Chi Minh City, Vietnam, with 4 years of experience acro
 
 ## 🎯 Current focus
 
-```text
-💼 Day job        Backend for a private cloud platform (Rails, Django, Kafka, K8s)
-🔭 Side project   Maui — an AI nutrition coach: Go API + LangGraph agent + local LLMs via Ollama
-📚 Reading        Concurrency in Go · System Design Interview (Alex Xu)
-💬 Ask me about   Backend architecture, job queues, Kubernetes, ML pipelines
-```
+<div align="center">
+
+*By day I keep a private cloud running at scale; by night I teach local LLMs to coach people on what to eat.* 🔭
+
+</div>
 
 ---
 
