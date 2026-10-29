@@ -73,7 +73,7 @@
 
 <div align="center">
 
-*By day I keep a private cloud running at scale; by night I build Maui, a personal life guru of AI agents, trying to make the world a little better and safer.* 🔭
+*By day I keep a private cloud running at scale; by night I build multi-agent orchestration systems that make the world a little better and safer.* 🔭
 
 </div>
 
